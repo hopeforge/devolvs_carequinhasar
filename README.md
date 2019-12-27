@@ -3,7 +3,7 @@
 O projeto consiste em auxiliar a instituição GRAACC a agariar fundos para o auxilio de seus custos utilizando 
 as tecnologias de AR('Augmented reality') para incentivar pessoas a abraçarem a causa.
 
-### Pré-requisitos
+### Pré-requisitos 
 
 Necessário instalar os seguintes softwares:
 
